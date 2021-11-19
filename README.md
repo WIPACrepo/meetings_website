@@ -17,6 +17,15 @@ directory.
 
 The Markdown source exists in `docs` and uses [mkdocs](https://www.mkdocs.org/).
 
+### Adding a Page
+
+Add your page in [markdown format](https://www.mkdocs.org/user-guide/writing-your-docs/#writing-with-markdown)
+inside the `docs` directory. If adding an image, the url should be relative.
+
+Then insert the new page into the nav bar by editing `mkdocs.yml`.
+The `nav:` section is set up as explained
+[here](https://www.mkdocs.org/user-guide/writing-your-docs/#configure-pages-and-navigation).
+
 ## Publishing
 
 There is a GitHub action configured to deploy any changes to `main`.
