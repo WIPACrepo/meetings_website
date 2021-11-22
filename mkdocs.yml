@@ -9,6 +9,14 @@ nav:
     - virtualspring2021/schedule.md
     - virtualspring2021/codeofconduct.md
     - virtualspring2021/contactus.md
+  - 'Virtual Fall 2020':
+    - virtualfall2020/home.md
+    - virtualfall2020/registration.md
+    - virtualfall2020/indico.md
+    - virtualfall2020/schedule.md
+    - virtualfall2020/banquet.md
+    - virtualfall2020/codeofconduct.md
+    - virtualfall2020/contactus.md
 theme:
   name: material
   custom_dir: overrides
