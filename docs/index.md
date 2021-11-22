@@ -18,3 +18,4 @@ conference programs, and registration information.
 ## Previous Meetings:
 
 * [IceCube Collaboration meeting](virtualspring2021/home) - Virtual (Aachen), March 17-26, 2021
+* [IceCube Collaboration meeting](virtualfall2020/home) - Virtual (Madison), September 14-25, 2020
