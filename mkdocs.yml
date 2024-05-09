@@ -17,6 +17,37 @@ nav:
     - virtualfall2020/banquet.md
     - virtualfall2020/codeofconduct.md
     - virtualfall2020/contactus.md
+  - 'Virtual Spring 2020':
+    - brussels2020/home.md
+    - brussels2020/registration.md
+    - brussels2020/indico.md
+    - brussels2020/schedule.md
+    - brussels2020/location.md
+    - brussels2020/lodging.md
+    - brussels2020/travel.md
+    - brussels2020/welcomeparty.md
+    - brussels2020/codeofconduct.md
+    - brussels2020/contactus.md
+#  - 'vvv to-do vvv':
+#  - 'Chiba Fall 2019':
+#  - 'Madison Spring 2019':
+#  - 'Stockholm Fall 2018':
+#  - 'Atlanta Spring 2018':
+#  - 'Berlin Fall 2017':
+#  - 'IPA 2017':
+#  - 'Madison Spring 2017':
+#  - 'Mainz Fall 2016':
+#  - 'Stony Brook Spring 2016':
+#  - 'IPA 2015':
+#  - 'Madison Spring 2015':
+#  - 'Fermi-VERITAS-HAWC 2014':
+#  - 'Neutrinos Beyond IceCube 2014':
+#  - 'Munich Fall 2013':
+#  - 'CRA 2013':
+#  - 'IPA 2013':
+#  - 'Madison Spring 2013':
+#  - 'CRA 2013':
+
 theme:
   name: material
   custom_dir: overrides
