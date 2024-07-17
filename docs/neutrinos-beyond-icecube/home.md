@@ -3,8 +3,6 @@ hide:
   - toc
 ---
 
-![Neutrinos Beyond IceCube]
-
 
 # Home
 
