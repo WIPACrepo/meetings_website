@@ -38,25 +38,157 @@ nav:
     - chiba2019/lodging.md
     - chiba2019/travel.md
     - chiba2019/contactus.md
-#  - 'vvv to-do vvv':
-#  - 'Chiba Fall 2019':
-#  - 'Madison Spring 2019':
-#  - 'Stockholm Fall 2018':
-#  - 'Atlanta Spring 2018':
-#  - 'Berlin Fall 2017':
-#  - 'IPA 2017':
-#  - 'Madison Spring 2017':
-#  - 'Mainz Fall 2016':
-#  - 'Stony Brook Spring 2016':
-#  - 'IPA 2015':
-#  - 'Madison Spring 2015':
-#  - 'Fermi-VERITAS-HAWC 2014':
-#  - 'Neutrinos Beyond IceCube 2014':
-#  - 'Munich Fall 2013':
-#  - 'CRA 2013':
-#  - 'IPA 2013':
-#  - 'Madison Spring 2013':
-#  - 'CRA 2013':
+  - 'Madison Spring 2019':
+    - madison2019/home.md
+    - madison2019/registration.md
+    - madison2019/schedule.md
+    - madison2019/location.md
+    - madison2019/lodging.md
+    - madison2019/travel.md
+    - madison2019/banquetandwelcomeparty.md
+    - madison2019/indico.md
+    - madison2019/contactus.md
+  - 'Stockholm Fall 2018':
+    - stockholm2018/home.md
+    - stockholm2018/payment.md
+    - stockholm2018/location.md
+    - stockholm2018/lodging.md
+    - stockholm2018/schedule.md
+    - stockholm2018/welcome-reception-banquet.md
+    - stockholm2018/indico.md
+  - 'Atlanta Spring 2018':
+    - atlanta2018/home.md
+    - atlanta2018/payment.md
+    - atlanta2018/location.md
+    - atlanta2018/lodging.md
+    - atlanta2018/schedule.md
+    - atlanta2018/welcome-party-banquet.md
+    - atlanta2018/indico.md
+  - 'Berlin Fall 2017':
+    - berlin2017/home.md
+    - berlin2017/registration.md
+    - berlin2017/schedule.md
+    - berlin2017/lodging.md
+    - berlin2017/location.md
+    - berlin2017/travel.md
+    - berlin2017/welcome-party-banquet.md
+    - berlin2017/socialevents.md
+    - berlin2017/indico.md
+  - 'IPA 2017':
+    - ipa2017/home.md
+    - ipa2017/registration.md
+    - ipa2017/program.md
+    - ipa2017/submitabstract.md
+    - ipa2017/location.md
+    - ipa2017/lodging.md
+    - ipa2017/contact.md
+  - 'Madison Spring 2017':
+    - madison2017/home.md
+    - madison2017/registration2017.md
+    - madison2017/schedule2017.md
+    - madison2017/location2017.md
+    - madison2017/lodging.md
+    - madison2017/travel2017.md
+    - madison2017/welcome-party-banquet.md
+    - madison2017/indico.md
+    - madison2017/contact-us2017.md
+  - 'Mainz Fall 2016':
+    - mainz2016/home.md
+    - mainz2016/registration.md
+    - mainz2016/schedule.md
+    - mainz2016/lodging.md
+    - mainz2016/location.md
+    - mainz2016/travel.md
+    - mainz2016/banquet.md
+    - mainz2016/indico.md
+  - 'Stony Brook Spring 2016':
+    - ny2016/home.md
+    - ny2016/registration.md
+    - ny2016/schedule.md
+    - ny2016/lodging.md
+    - ny2016/location.md
+    - ny2016/indico.md
+    - ny2016/social.md
+  - 'IPA 2015':
+    - ipa2015/home.md
+    - ipa2015/registration.md
+    - ipa2015/program.md
+    - ipa2015/submitabstract.md
+    - ipa2015/location.md
+    - ipa2015/lodging.md
+    - ipa2015/contact.md
+  - 'Madison Spring 2015':
+    - madison2015/home.md
+    - madison2015/registration.md
+    - madison2015/schedule.md
+    - madison2015/location.md
+    - madison2015/lodging.md
+    - madison2015/travel.md
+    - madison2015/banquet.md
+    - madison2015/indico.md
+    - madison2015/ipa2015.md
+    - madison2015/contactus.md
+  - 'Fermi-VERITAS-HAWC 2014':
+    - hawc2014/home.md
+    - hawc2014/location.md
+    - hawc2014/agenda.md
+    - hawc2014/registrants.md
+  - 'Neutrinos Beyond IceCube 2014':
+    - neutrinos-beyond-icecube/home.md
+    - neutrinos-beyond-icecube/location.md
+    - neutrinos-beyond-icecube/committee.md
+    - neutrinos-beyond-icecube/program.md
+    - neutrinos-beyond-icecube/registration.md
+    - neutrinos-beyond-icecube/participants.md
+  - 'Munich Fall 2013':
+    - munich2013/home.md
+    - munich2013/schedule.md
+    - munich2013/registration.md
+    - munich2013/location.md
+    - munich2013/lodging.md
+    - munich2013/banquet.md
+    - munich2013/travel.md
+    - munich2013/artscience.md
+    - munich2013/indico.md
+  - 'CRA 2013':
+    - cra2013/home.md
+    - cra2013/schedule.md
+    - cra2013/registration.md
+    - cra2013/location.md
+    - cra2013/lodging.md
+    - cra2013/banquet.md
+    - cra2013/travel.md
+    - cra2013/science_program.md
+    - cra2013/committees.md
+    - cra2013/links.md
+    - cra2013/indico.md
+  - 'IPA 2013':
+    - ipa2013/home.md
+    - https://events.icecube.wisc.edu/event/46/timetable/#20130513
+    - ipa2013/registration.md
+    - ipa2013/location.md
+    - ipa2013/lodging.md
+    - ipa2013/banquet.md
+    - ipa2013/travel.md
+    - ipa2013/science_program.md
+    - ipa2013/committee.md
+    - ipa2013/links.md
+    - ipa2013/indico.md
+  - 'Madison Spring 2013':
+    - collab2013/home.md
+    - https://events.icecube.wisc.edu/conferenceTimeTable.py?confId=47#20130506
+    - collab2013/registration.md
+    - collab2013/location.md
+    - collab2013/travel.md
+    - collab2013/lodging.md
+    - collab2013/banquet.md
+    - collab2013/indico.md
+  - 'CRA 2013':
+    - cra2011/home.md
+    - cra2011/location.md
+    - cra2011/committee.md
+    - cra2011/program.md
+    - cra2011/participants.md
 
 theme:
   name: material
