@@ -164,7 +164,6 @@ nav:
     - cra2013/indico.md
   - 'IPA 2013':
     - ipa2013/home.md
-    - https://events.icecube.wisc.edu/event/46/timetable/#20130513
     - ipa2013/registration.md
     - ipa2013/location.md
     - ipa2013/lodging.md
@@ -176,14 +175,13 @@ nav:
     - ipa2013/indico.md
   - 'Madison Spring 2013':
     - collab2013/home.md
-    - https://events.icecube.wisc.edu/conferenceTimeTable.py?confId=47#20130506
     - collab2013/registration.md
     - collab2013/location.md
     - collab2013/travel.md
     - collab2013/lodging.md
     - collab2013/banquet.md
     - collab2013/indico.md
-  - 'CRA 2013':
+  - 'CRA 2011':
     - cra2011/home.md
     - cra2011/location.md
     - cra2011/committee.md
