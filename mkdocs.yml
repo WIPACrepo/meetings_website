@@ -183,10 +183,8 @@ nav:
     - collab2013/indico.md
   - 'CRA 2011':
     - cra2011/home.md
-    - cra2011/location.md
-    - cra2011/committee.md
-    - cra2011/program.md
-    - cra2011/participants.md
+    - cra2011/speakerlist.md
+    - cra2011/registrants.md
 
 theme:
   name: material
