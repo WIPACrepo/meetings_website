@@ -102,13 +102,13 @@ nav:
     - mainz2016/banquet.md
     - mainz2016/indico.md
   - 'Stony Brook Spring 2016':
-    - ny2016/home.md
-    - ny2016/registration.md
-    - ny2016/schedule.md
-    - ny2016/lodging.md
-    - ny2016/location.md
-    - ny2016/indico.md
-    - ny2016/social.md
+    - NY2016/home.md
+    - NY2016/registration.md
+    - NY2016/schedule.md
+    - NY2016/lodging.md
+    - NY2016/location.md
+    - NY2016/indico.md
+    - NY2016/social.md
   - 'IPA 2015':
     - ipa2015/home.md
     - ipa2015/registration.md
