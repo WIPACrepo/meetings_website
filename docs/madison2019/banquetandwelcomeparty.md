@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-  - title: Banquet and Welcome Party
+title: Banquet and Welcome Party
 ---
 
 ![2019 Spring Collaboration Meeting](CollabSpring2019_banner1.jpg)
