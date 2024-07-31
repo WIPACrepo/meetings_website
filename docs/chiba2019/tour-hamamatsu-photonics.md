@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - title: Tour Hamamatsu Photonics
 ---
 
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
