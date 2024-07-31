@@ -110,24 +110,24 @@ nav:
     - NY2016/indico.md
     - NY2016/social.md
   - 'IPA 2015':
-    - ipa2015/home.md
-    - ipa2015/registration.md
-    - ipa2015/program.md
-    - ipa2015/submitabstract.md
-    - ipa2015/location.md
-    - ipa2015/lodging.md
-    - ipa2015/contact.md
+    - IPA2015/home.md
+    - IPA2015/registration.md
+    - IPA2015/program.md
+    - IPA2015/submitabstract.md
+    - IPA2015/location.md
+    - IPA2015/lodging.md
+    - IPA2015/contact.md
   - 'Madison Spring 2015':
-    - madison2015/home.md
-    - madison2015/registration.md
-    - madison2015/schedule.md
-    - madison2015/location.md
-    - madison2015/lodging.md
-    - madison2015/travel.md
-    - madison2015/banquet.md
-    - madison2015/indico.md
-    - madison2015/ipa2015.md
-    - madison2015/contactus.md
+    - Madison2015/home.md
+    - Madison2015/registration.md
+    - Madison2015/schedule.md
+    - Madison2015/location.md
+    - Madison2015/lodging.md
+    - Madison2015/travel.md
+    - Madison2015/banquet.md
+    - Madison2015/indico.md
+    - Madison2015/ipa2015.md
+    - Madison2015/contactus.md
   - 'Fermi-VERITAS-HAWC 2014':
     - hawc2014/home.md
     - hawc2014/location.md
@@ -138,7 +138,6 @@ nav:
     - neutrinos-beyond-icecube/location.md
     - neutrinos-beyond-icecube/committee.md
     - neutrinos-beyond-icecube/program.md
-    - neutrinos-beyond-icecube/registration.md
     - neutrinos-beyond-icecube/participants.md
   - 'Munich Fall 2013':
     - munich2013/home.md
