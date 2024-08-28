@@ -84,14 +84,14 @@ nav:
     - ipa2017/contact.md
   - 'Madison Spring 2017':
     - madison2017/home.md
-    - madison2017/registration2017.md
-    - madison2017/schedule2017.md
-    - madison2017/location2017.md
+    - madison2017/registration.md
+    - madison2017/schedule.md
+    - madison2017/location.md
     - madison2017/lodging.md
-    - madison2017/travel2017.md
+    - madison2017/travel.md
     - madison2017/welcome-party-banquet.md
     - madison2017/indico.md
-    - madison2017/contact-us2017.md
+    - madison2017/contact-us.md
   - 'Mainz Fall 2016':
     - mainz2016/home.md
     - mainz2016/registration.md
