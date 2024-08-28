@@ -6,7 +6,6 @@ hide:
 ![2018 Fall Collaboration Meeting](Stockholm_2018Collab_Web.jpg)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
