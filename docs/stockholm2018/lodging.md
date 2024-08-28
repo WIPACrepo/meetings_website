@@ -6,8 +6,6 @@ hide:
 ![2018 Fall Collaboration Meeting](Stockholm_2018Collab_Web.jpg)
 
 
-![ ](toriiGold.jpg){: align="left" style=""}
-
 # Lodging
 
 ## Hotel Options below. 
