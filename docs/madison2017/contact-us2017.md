@@ -1,12 +1,10 @@
- ---
+---
 hide:
   - toc
 ---
 
 ![2017 Spring Collaboration Meeting](CollabSpring2017_banner_2-20-17.jpg)
 
-
-![ ](indico.jpg){: align="left" style=""}
 
 # Contact Us
 
