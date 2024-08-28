@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-title: Contact Us
+title: Artscience Event
 ---
 
 ![2013 Fall Collaboration Meeting](munich2013-header.jpg)
