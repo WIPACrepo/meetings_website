@@ -2,6 +2,11 @@ site_name: WIPAC Meetings
 copyright: Copyright &copy; 2021
 nav:
   - Home: index.md
+  - 'Aachen Spring 2022': 'https://events.icecube.wisc.edu/event/164/'
+  - 'Madison Fall 2022': 'https://events.icecube.wisc.edu/event/161/'
+  - 'Brussels Spring 2022': 'https://events.icecube.wisc.edu/event/154/'
+  - 'Virtual Fall 2021': 'https://events.icecube.wisc.edu/event/143/'
+
   - 'Virtual Spring 2021':
     - virtualspring2021/home.md
     - virtualspring2021/registration.md
