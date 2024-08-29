@@ -4,7 +4,7 @@ hide:
 title: Contact Us
 ---
 
-![2020 Spring Collaboration Meeting](IceCubeMeeting_FinalBanner_v2.png)
+![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 # Contact Us
 
