@@ -30,10 +30,11 @@ conference programs, and registration information.
 * [IceCube Collaboration meeting](brussels2020/home) - Brussels, May 9-15, 2020
 * [IceCube Collaboration meeting](chiba2019/home) - Chiba, Japan, September 16-20, 2019
 * [IceCube Collaboration meeting](madison2019/home) - Madison, WI, April 30 - May 4, 2019
-* [IceCube Collaboration meeting](Stockholm2018/home) - Stockholm, Sweden September 24-28, 2018
-* [IceCube Collaboration meeting](Berlin2017/home) - Berlin, Germany, October 2-6 2017
+* [IceCube Collaboration meeting](stockholm2018/home) - Stockholm, Sweden September 24-28, 2018
+* [IceCube Collaboration meeting](atlanta2018/home) - Atlanta, May 8-12, 2018
+* [IceCube Collaboration meeting](berlin2017/home) - Berlin, Germany, October 2-6 2017
 * [IPA 2017](ipa2017/home) - Madison, May 8-10, 2017
-* [IceCube Collaboration meeting](Madison2017/home) - Madison, May 2-6, 2017
+* [IceCube Collaboration meeting](madison2017/home) - Madison, May 2-6, 2017
 * [IceCube Collaboration meeting](mainz2016/home) - Mainz, September 26-30, 2016
 * [IceCube Collaboration meeting](NY2016/home) - Stony Brook, April 17-23, 2016
 * [IPA 2015](IPA2015/home) - May 4-6, 2015
