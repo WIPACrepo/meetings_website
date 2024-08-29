@@ -228,3 +228,4 @@ markdown_extensions:
   - pymdownx.superfences
 plugins:
   - search
+  - open-in-new-tab
