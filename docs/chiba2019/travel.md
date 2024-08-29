@@ -28,13 +28,11 @@ Address: 1-33 Yayoi-cho, Inage-ku, Chiba-shi, Chiba
 
 There are two International Airport in Tokyo/Chiba area, Narita and Haneda. The closest one to Chiba University is Narita airport. If you stay in Tokyo area, Haneda may be more convenient.  Please refer to the table below on how to get to Nishi-Chiba Station, the closest station to Chiba University, from each airport.
 
-![ ](chart_access_nishichiba.jpg)
 
 ###  For other routes:
 
 Please refer to [Route Search Website](https://world.jorudan.co.jp/mln/en/) or Google Maps
 
-![ ](map_access_nishichiba.jpg)
 
 ### Access:
 
