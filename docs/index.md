@@ -13,10 +13,14 @@ conference programs, and registration information.
 
 ## Upcoming Meetings:
 
-
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/213/) - Madison, September 23-27, 2024
 
 ## Previous Meetings:
 
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/164/) - Aachen, March 12-17, 2023
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/161/) - Madison, September 18-23, 2022
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/154/) - Brussels, May 14-20, 2022
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/143/) - Virtual (Madison), September 20-23, 2021
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/164/) - Aachen, March 12-17, 2023
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/161/) - Madison, September 18-23, 2022
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/154/) - Brussels, May 14-20, 2022
@@ -40,4 +44,4 @@ conference programs, and registration information.
 * [CRA 2013](cra2013/home) - September 26-28, 2013
 * [IPA 2013](ipa2013/home) - May 13-15, 2013
 * [IceCube Collaboration meeting](collab2013/home) - Madison, May 6-11, 2013
-* [CRA 2011]() - October 28-29, 2011
+* [CRA 2011](https://events.icecube.wisc.edu/conferenceDisplay.py?confId=39) - October 28-29, 2011
