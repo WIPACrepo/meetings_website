@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-![2020 Fall Virtual Collaboration Meeting](Fall-Collab_Web-Banner_Draft-4_1200x400.jpg)
+![2020 Spring Virtual Collaboration Meeting](IceCubeMeeting_FinalBanner_v2.png)
 
 # Virtual Banquet
 
