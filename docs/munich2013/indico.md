@@ -6,7 +6,6 @@ hide:
 ![2013 Fall Collaboration Meeting](munich2013-header.jpg)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
