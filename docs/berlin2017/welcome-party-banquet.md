@@ -30,3 +30,5 @@ The banquet will start with a reception at 7:00pm. Dinner starts at 7:30pm in th
 
 1. Bus 100, 35 minutes, [Bus Info](http://www.s-bahn-berlin.de/en/route-information)
 2. By bike, 20 minutes, [Bike Info](http://www.bbbike.de/cgi-bin/bbbike.en.cgi)
+
+![](Screen%20Shot%202017-06-28%20at%204.25.16%20PM.png)
