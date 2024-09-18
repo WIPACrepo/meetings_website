@@ -7,13 +7,14 @@ hide:
 
 # Home
 
-![ ](RegistrationShrine.jpg){: align="left" style=""}
+<img src="RegistrationShrine.jpg" width="200">
+
 
 ### Registration Now Open
 
 Registration is now open via [Indico](https://events.icecube.wisc.edu/e/Collaboration2019Fall). Visit our [Registration](/registration) page for full details and payment instructions.
 
-![ ](AccomodationHasu.jpg){: align="left" style=""}
+<img src="AccomodationHasu.jpg" width="200">
 
 ### Reserve Your Hotel
 
