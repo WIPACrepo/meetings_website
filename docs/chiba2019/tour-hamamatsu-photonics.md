@@ -7,9 +7,9 @@ title: Tour Hamamatsu Photonics
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](hamamatsu.jpg){: align="left" style=""}
-
 # Tour of Hamamatsu Photonics
+
+<img src="hamamatsu.jpg" width="200px">
 
 50 seats available on the chartered bus from Hamamatsu Station to Toyooka factory of Hamamatsu Photonics.
 
