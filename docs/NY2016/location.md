@@ -37,10 +37,6 @@ Parking for the Wang Center is available in the Stony Brook Administration parki
 
 Most people will arrive at one of the New York airports and take transit or a cab to their hotel in New York City for pre-meetings, or take a shuttle or a cab to their hotel at Stony Brook.  We are arranging a shuttle from Columbia University to Stony Brook University on Monday afternoon.  To sign up, please purchase a ticket when you pay your meeting registration fee. 
 
-Please see "Venue Information" for details about parking at Stony Brook. Other useful links:
-
-- [Airport transportation information](http://web.mta.info/nyct/service/airport.htm)
-
 
 ## Area Information and Events
 
