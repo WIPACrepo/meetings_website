@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Code of Conduct
 ---
 
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
