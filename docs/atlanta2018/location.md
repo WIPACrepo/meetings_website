@@ -1,12 +1,13 @@
 ---
 hide:
   - toc
+title: Travel and Location
 ---
 
 ![2018 Spring Collaboration Meeting](Atlanta_Day.jpg)
 
 
-# Travel / Location
+# Travel and Location
 
 
 ## Travel to Atlanta
