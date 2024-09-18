@@ -18,7 +18,8 @@ conference programs, and registration information.
 ## Previous Meetings:
 
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/180/) - Münster, March 17-22, 2024
-* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/164/) - Grand Rapids, October 18-23, 2023
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/168/) - Grand Rapids, October 18-23, 2023
+* [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/164/) - Aachen, March 12-17, 2023
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/161/) - Madison, September 18-23, 2022
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/154/) - Brussels, May 14-20, 2022
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/143/) - Virtual (Madison), September 20-23, 2021
