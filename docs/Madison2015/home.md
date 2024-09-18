@@ -8,14 +8,14 @@ hide:
 # Home
 
 
-![ ](Registration-open.jpg){: align="left" style=""}
+<img src="collab2013-concourse.png" width="200px">
 
 ## Reserve your Hotel 
 
 Several new and interesting accommodation venues are available this year. Visit the lodging page to reserve your room now. If you are looking for special arrangements, please contact us.
 
 
-![ ](IPA_news_image.png){: align="left" style=""}
+<img src="IPA_news_image.png" width="200px">
 
 ## Register and submit an abstract for IPA 2015
 
