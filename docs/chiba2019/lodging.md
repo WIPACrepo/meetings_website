@@ -6,9 +6,9 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](toriiGold.jpg){: align="left" style=""}
-
 # Lodging
+
+<img src="toriiGold.jpg" width="200px">
 
 **Please note, we are past the August 10th deadline to book a room at the discounted group rate.** If you submitted your request to collaboration@icecube.wisc.edu before the deadline, we will do our best to accomodate your hotel and room choice, though options are limited.
 
