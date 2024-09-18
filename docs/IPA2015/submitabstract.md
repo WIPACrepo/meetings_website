@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Submit Abstract
 ---
 
 ![IPA 2015](IPA2015_web_banner_1118x200_0128152.png)
