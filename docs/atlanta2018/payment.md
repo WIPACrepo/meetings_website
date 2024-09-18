@@ -1,11 +1,12 @@
 ---
 hide:
   - toc
+title: Registration and Payment
 ---
 
 ![2018 Spring Collaboration Meeting](Atlanta_Day.jpg)
 
-# Registration & Payment
+# Registration and Payment
 
 
 ## Registration
