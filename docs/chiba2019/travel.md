@@ -6,9 +6,9 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](travel.jpg){: align="left" style=""}
-
 # Travel Information
+
+![ ](travel.jpg)
 
 Chiba University is conveniently located in the Tokyo metropolitan area with great access from Tokyo Station and Narita International Airport, and less than one hour by car or train from either. The university also stands near the Boso Peninsula and Tokyo Bay, offering both the excitement and convenience of a major metropolitan city and the calm beauty and nature of the countryside.
 
