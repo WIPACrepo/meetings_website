@@ -6,7 +6,6 @@ hide:
 ![2016 Spring Collaboration Meeting](slider_NY_update.png)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
