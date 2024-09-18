@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Virtual Banquet
 ---
 
 ![2020 Spring Virtual Collaboration Meeting](IceCubeMeeting_FinalBanner_v2.png)
