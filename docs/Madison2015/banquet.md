@@ -1,11 +1,12 @@
 ---
 hide:
   - toc
+title: Banquet and Welcome Party
 ---
 
 ![2015 Spring Collaboration Meeting](IceCubeCollabMeeting15_web_banner_012915.png)
 
-# Banquet & Welcome Party
+# Banquet and Welcome Party
 
 
 ## IceCube Welcome Party 
