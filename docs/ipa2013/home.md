@@ -47,3 +47,5 @@ Non-Accelerator-Based Neutrino Physics
 - Wei Wang, The College of William & Mary
 
 [PDF version of event poster](ipa2013-poster.pdf)
+
+<a href="ipa2013-poster.pdf"><img src="IPA2013-poster-block.png" width="200px"></a>
