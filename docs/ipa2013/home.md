@@ -46,6 +46,4 @@ Non-Accelerator-Based Neutrino Physics
 - Lisa Kaufman, Indiana University
 - Wei Wang, The College of William & Mary
 
-[PDF version of event poster](ipa2013-poster.pdf)
-
-<a href="ipa2013-poster.pdf"><img src="IPA2013-poster-block.png" width="200px"></a>
+[Download the conference poster](ipa2013-poster.pdf)
