@@ -6,8 +6,6 @@ hide:
 ![2019 Spring Collaboration Meeting](CollabSpring2019_banner1.jpg)
 
 
-![ ](toriiGold.jpg){: align="left" style=""}
-
 # Lodging
 
 ## Concourse Hotel
