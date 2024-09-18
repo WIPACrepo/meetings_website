@@ -24,7 +24,7 @@ conference programs, and registration information.
 * [IceCube Collaboration meeting](https://events.icecube.wisc.edu/event/143/) - Virtual (Madison), September 20-23, 2021
 * [IceCube Collaboration meeting](virtualspring2021/home) - Virtual (Aachen), March 17-26, 2021
 * [IceCube Collaboration meeting](virtualfall2020/home) - Virtual (Madison), September 14-25, 2020
-* [IceCube Collaboration meeting](brussels2020/home) - Brussels, May 9-15, 2020
+* [IceCube Collaboration meeting](brussels2020/home) - Virtual (Brussels), May 9-15, 2020
 * [IceCube Collaboration meeting](chiba2019/home) - Chiba, Japan, September 16-20, 2019
 * [IceCube Collaboration meeting](madison2019/home) - Madison, WI, April 30 - May 4, 2019
 * [IceCube Collaboration meeting](stockholm2018/home) - Stockholm, Sweden September 24-28, 2018
