@@ -1,11 +1,12 @@
 ---
 hide:
   - toc
+title: Travel and Location
 ---
 
 ![2018 Fall Collaboration Meeting](Stockholm_2018Collab_Web.jpg)
 
-# Travel & Location
+# Travel and Location
 
 
 ## Travel to Stockholm (by plane)
