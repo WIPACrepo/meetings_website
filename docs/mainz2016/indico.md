@@ -6,7 +6,6 @@ hide:
 ![2016 Fall Collaboration Meeting](Mainz_header.jpg)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
