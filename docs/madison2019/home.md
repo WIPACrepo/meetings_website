@@ -18,4 +18,4 @@ Registration and payment pages are now open. Meeting registration is completed u
 
 ### Reserve Your Hotel
 
-Several new and interesting accommodation venues are available this year. Visit the [Lodging page](/lodging) to reserve your room now. If you are looking for special arrangements, please [contact us](/contactus).
+Several new and interesting accommodation venues are available this year. Visit the [Lodging page](lodging.md) to reserve your room now. If you are looking for special arrangements, please [contact us](contactus.md).
