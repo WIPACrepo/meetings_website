@@ -31,7 +31,4 @@ On Wednesday, September 25 at 2:30pm, David Benyamin from the Racah Institute of
 Wisconsin Science Festival in Madison Sept. 26-29
 Explore and celebrate science at the [Wisconsin Science Festival](http://www.wisconsinsciencefest.org/). WIPAC is hosting Suds and Spirits Science Trivial on Friday afternoon, other special events to check out: stargazing at the Washburn Observatory and a live radio broadcast of Science Friday with Ira Flatow.
 
-**Download the poster**
-
-<a href="cra2013-poster.pdf"><img src="CRA2013-poster-block.png" width="200px"></a>
-
+[Download the conference poster](cra2013-poster.pdf)
