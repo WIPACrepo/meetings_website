@@ -10,7 +10,7 @@ hide:
 
 ## Registration
 
-Register for the conference on the IceCube Indico meeting page. Use your IceCube LDAP account information or a current Indico account. If you do not have an IceCube LDAP or an Indico login, create a new user account on the Indico site.
+Register for the conference on the [IceCube Indico meeting page](https://events.icecube.wisc.edu/event/75/). Use your IceCube LDAP account information or a current Indico account. If you do not have an IceCube LDAP or an Indico login, create a new user account on the Indico site.
 
 
 ## Payment
