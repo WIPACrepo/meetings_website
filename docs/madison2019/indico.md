@@ -3,10 +3,8 @@ hide:
   - toc
 ---
 
-![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
+![2019 Spring Collaboration Meeting](CollabSpring2019_banner1.jpg)
 
-
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
