@@ -16,7 +16,7 @@ The meeting will be held at Chiba University – Nishi-Chiba Campus 1-33 Yayoi-c
 
 ![ ](ChibaVenuesPhoto.jpg)
 
-For directions to Chiba University, please refer to the [Travel](/travel) page.
+For directions to Chiba University, please refer to the [Travel](travel.md) page.
 
 ## Chiba University Map
 
