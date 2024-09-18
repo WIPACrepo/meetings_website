@@ -1,12 +1,12 @@
 ---
 hide:
   - toc
+title: Payment and Registration
 ---
 
 ![2018 Fall Collaboration Meeting](Stockholm_2018Collab_Web.jpg)
 
-# Payment and Registration Info
-
+# Payment and Registration
 
 ## Registration
 
