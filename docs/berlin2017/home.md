@@ -33,7 +33,7 @@ Please use the entrance Hegelplatz
 
 ### How do I get to Berlin, Germany?
 
-There are two airports in Berlin, [Schönefeld Airport (SXF)](http://www.berlin-airport.de/en/travellers-sxf/index.php) and [Tegel Airport (TXL)](http://www.berlin-airport.de/en/travellers-txl/index.php). Details on the [travel page](/travel.md). 
+There are two airports in Berlin, [Schönefeld Airport (SXF)](http://www.berlin-airport.de/en/travellers-sxf/index.php) and [Tegel Airport (TXL)](http://www.berlin-airport.de/en/travellers-txl/index.php). Details on the [travel page](travel.md). 
 
 ### MANTs meeting
 
