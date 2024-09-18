@@ -11,7 +11,7 @@ hide:
 
 ## Schedule Overview:
 
-Please see the Indico timetable for the detailed schedule
+Please see the [Indico timetable](https://events.icecube.wisc.edu/event/79/timetable/#20160926) for the detailed schedule
  
 All meetings will be held in the 
 Hörsaalzentrum Physik/Mathematik/Chemie
