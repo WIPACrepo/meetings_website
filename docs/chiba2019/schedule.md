@@ -6,9 +6,10 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](schedule.jpg){: align="left" style=""}
 
 # Schedule
+
+<img src="schedule.jpg" width="200px">
 
 **Friday, September 13**
 
