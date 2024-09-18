@@ -8,7 +8,7 @@ hide:
 # Registration
 
 
-Symposium registration is done through Indico. Payment is accepted online through a separate site, instructions are below.
+Symposium registration is done through [Indico](https://events.icecube.wisc.edu/event/68/). Payment is accepted online through a separate site, instructions are below.
  
 ## Payment
 Conference fees
