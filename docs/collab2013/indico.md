@@ -6,7 +6,6 @@ hide:
 ![2013 Spring Collaboration Meeting](collab2013-header.jpg)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
