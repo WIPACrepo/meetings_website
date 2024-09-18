@@ -11,7 +11,7 @@ hide:
 
 ## Schedule Overview:
 
-Please see the Indico timetable for the detailed schedule
+Please see the [Indico timetable](https://events.icecube.wisc.edu/event/75/) for the detailed schedule
 
 **Saturday, April 16**
 
