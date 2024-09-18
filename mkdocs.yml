@@ -170,6 +170,7 @@ nav:
     - cra2013/banquet.md
     - cra2013/travel.md
     - cra2013/science_program.md
+    - '2011 Workshop': 'https://events.icecube.wisc.edu/conferenceDisplay.py?confId=39'
     - cra2013/committees.md
     - cra2013/links.md
     - cra2013/indico.md
@@ -194,6 +195,7 @@ nav:
     - collab2013/lodging.md
     - collab2013/banquet.md
     - collab2013/indico.md
+    - 'IPA 2013': 'https://events.icecube.wisc.edu/event/46/'
   - 'CRA 2011': 'https://events.icecube.wisc.edu/conferenceDisplay.py?confId=39'
 
 theme:
