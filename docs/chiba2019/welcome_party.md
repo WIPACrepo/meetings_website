@@ -6,9 +6,9 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](banquet.jpg){: align="left" style=""}
-
 # Welcome Party & Banquet
+
+![ ](banquet.jpg)
 
 ## Welcome Party
 
@@ -16,15 +16,15 @@ The welcome party for the Collaboration meeting will be held on Monday, Septembe
 
 ### Welcome Party Venue
 
-![ ](WRVenue.jpg){: align="left" style=""}
+![ ](WRVenue.jpg)
 
-![ ](WelcomeReception.jpg){: align="left" style=""}
+![ ](WelcomeReception.jpg)
 
 ## Banquet
 
 The collaboration banquet will be held on Thursday, September 19th at Hotel Chinzanso Tokyo in the room “Miyabi." The cost of the banquet is included in the price of the conference. The IceCube collaboration banquet starts with a reception from 6:00-7:00pm, and dinner at 7:00pm. Welcome Drink will be served from 6:00pm. Your first drink is included to the banquet. More drinks are available to be paid in cash at the bar.
 
-![ ](banquetchinzanso.jpg){: align="left" style=""}
+![ ](banquetchinzanso.jpg)
 
 ### Hotel CHINZANSO Tokyo – Room “Miyabi” on 4th floor of Plaza (Banquet Bldg.)
 
