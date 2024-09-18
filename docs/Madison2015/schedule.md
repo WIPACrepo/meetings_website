@@ -48,3 +48,5 @@ Workshop on Muon Analyses in IceCube May 2-3, 222 W. Washington Ave., Madison, W
 IOFG May 3, Union South, Madison, WI 
 IceCube Particle Astrophysics 2015 symposium May 4-6 Union South, Madison, WI
 
+[Detailed Schedule](https://events.icecube.wisc.edu/event/69/timetable/#20150428)
+
