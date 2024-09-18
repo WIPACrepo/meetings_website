@@ -8,4 +8,4 @@ hide:
 # Home
 
 
-![ ](munich2013-artscience_ad)
+![ ](munich2013-artscience_ad.jpg)
