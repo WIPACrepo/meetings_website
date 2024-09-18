@@ -8,7 +8,7 @@ hide:
 # Home
 
 
-![ ](Einstein.jpg){: align="left" style=""}
+![ ](Einstein.jpg)
 
 ## When is the Spring Collaboration 2018 meeting?
 
@@ -20,7 +20,7 @@ Sunday May 6: Gen-2 and Detector systematic uncertainty workshop
 Monday May 7: Gen-2 and LowEn/Osc analysis workshop
 
 
-![ ](GTech.png){: align="left" style=""}
+![ ](GTech.jpg)
 
 ## Where is the meeting?
 
