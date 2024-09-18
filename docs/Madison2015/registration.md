@@ -8,7 +8,7 @@ hide:
 # Registration
 
 
-**Meeting registration is completed using Indico.**
+**Meeting registration is completed using [Indico](https://events.icecube.wisc.edu/event/69/).**
 Payment is accepted online via a separate site, instructions are below.
 You can use your IceCube LDAP account information or a current Indico account. If you do not have an IceCube LDAP or an Indico login, create a new user account on the Indico site.
 Registration is open on the 2015 Spring Collaboration Meeting Indico page. You can also sign up guests you may bring to the banquet and upload your talk via this site.
