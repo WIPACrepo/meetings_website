@@ -11,7 +11,7 @@ hide:
 
 ### Registration Now Open
 
-Registration is now open via [Indico](https://events.icecube.wisc.edu/e/Collaboration2019Fall). Visit our [Registration](/registration) page for full details and payment instructions.
+Registration is now open via [Indico](https://events.icecube.wisc.edu/e/Collaboration2019Fall). Visit our [Registration](registration.md) page for full details and payment instructions.
 
 
 
@@ -22,4 +22,4 @@ Registration is now open via [Indico](https://events.icecube.wisc.edu/e/Collabor
 
 ### Reserve Your Hotel
 
-There are several great accommodation venues located near Chiba University. Visit the [Lodging page](/lodging) to reserve your room now. If you are looking for special arrangements, please [contact us](/contactus).
+There are several great accommodation venues located near Chiba University. Visit the [Lodging page](lodging.md) to reserve your room now. If you are looking for special arrangements, please [contact us](contactus.md).
