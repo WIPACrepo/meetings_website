@@ -6,9 +6,9 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](tips.jpg){: align="left" style=""}
-
 # Tips & Suggestions
+
+![ ](tips.jpg)
 
 ### From the Chiba team, here are some useful tips and some suggestions to help make your stay in Japan as comfortable as possible:
 
@@ -36,8 +36,8 @@ hide:
 
 If you are a vegetarian, it is sometimes hard to find restaurants which carry the vegetarian-friendly menus, but you can always ask them to suggest you the menu which doesn’t contain non-vegetarian products. The cards below may help you to communicate with them easier. What you may want to watch out is Dashi, the stock. For instance, you can find many varieties of tofu menu at the restaurants in Japan, but the dashi soup or sauce served with the tofu may be made from fish or meat.
 
-![ ](vegetarianCard.png){: align="left" style=""}
-![ ](vegan-cards.jpg){: align="left" style=""}
+![ ](vegetarianCard.png)
+![ ](vegan-cards.jpg)
 
 You don’t leave any tip at restaurants as this is not a custom in Japan.  However, it will still be wise to carry some cash since some stores and restaurants don’t accept credit card payment. You can easily find ATM which you can use with your international bank card. They usually have the button to change the information shown in English. https://www.sevenbank.co.jp/intlcard/service2.html
 
