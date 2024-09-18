@@ -1,12 +1,13 @@
 ---
 hide:
   - toc
+title: Welcome Party and Banquet
 ---
 
 ![2016 Fall Collaboration Meeting](Mainz_header.jpg)
 
 
-# Welcome Party & Banquet
+# Welcome Party and Banquet
 
 
 ## Welcome Party 
