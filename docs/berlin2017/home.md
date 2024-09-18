@@ -9,7 +9,7 @@ hide:
 # Home
 
 
-![ ](Regierungsviertel_Reichstag%20und%20Paul%20Löbbe%20Haus%20c_Pierre%20Adenis.jpg){: align="left" style=""}
+![ ](Regierungsviertel_Reichstag_und_Paul_Löbbe_Haus_c_Pierre_Adenis.jpg)
 
 ## When is the Fall Collaboration meeting?
 
