@@ -6,7 +6,6 @@ hide:
 ![2015 Spring Collaboration Meeting](IceCubeCollabMeeting15_web_banner_012915.png)
 
 
-![ ](indico.jpg){: align="left" style=""}
 
 # Indico
 
