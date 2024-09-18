@@ -5,10 +5,10 @@ hide:
 
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
-
-![ ](location.jpg){: align="left" style=""}
-
 # Venue Information
+
+![ ](location.jpg)
+
 
 The meeting will be held at Chiba University – Nishi-Chiba Campus 1-33 Yayoi-cho, Inage-ku, Chiba-shi, Chiba, General Studies Complex. Registration will be handled at the entrance of Bldg. G1. All plenary sessions will be held in Bldg. G2, except for Thursday Sept. 18, where they will be held at Yotsuya Kumin Hall in Tokyo. Parallel session rooms change daily, please refer to the program for more details. Wireless is available through eduroam in all the rooms at the university and will be limited at the Tokyo venue.
 
