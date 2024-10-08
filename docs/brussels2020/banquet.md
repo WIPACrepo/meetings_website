@@ -17,5 +17,3 @@ All the recipes will be compiled into an official ***IceCube Recipe Book and sha
 We hope you will try out someone’s favorite dish and/or drink and let your colleagues know how it turned out in the virtual discussion afterwards!
 
 Zoom information is available in [Indico](https://events.icecube.wisc.edu/event/125/sessions/1903/#20200925).
-
-![](2020_IceCube_Fall-Banquet_Invite_A6-01.jpg)
