@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-    title: Social Events
+title: Social Events
 ---
 
 ![2017 Fall Collaboration Meeting](Final-IceCubeCollabBerlin_web-header%20%281%29.jpg)
