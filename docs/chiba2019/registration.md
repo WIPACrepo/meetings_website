@@ -8,7 +8,7 @@ hide:
 
 # Registration
 
-<img src="RegistrationShrine.jpg" width="200px">
+![](RegistrationShrine.jpg){ width="200" }
 
 **Meeting registration is completed using [Indico](https://events.icecube.wisc.edu/e/Collaboration2019Fall).** Please note: Indico has been upgraded. When you log in, you will be prompted to link your login to your existing LDAP account. If you do not have an IceCube LDAP or an Indico login, create a new user account on the Indico site. You can also sign up guests you may bring to the banquet and upload your talk via this site.
 
