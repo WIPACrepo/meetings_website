@@ -16,7 +16,8 @@ Several new and interesting accommodation venues are available this year. Visit 
  
  
 
-<img src="IPA_2017.jpg" width="600px">
- 
+![](image.jpg){ width="600" }
+
+
 ## Register and submit an abstract for IPA 2017
 IPA 2017  will be held Monday, May 8 to Wednesday, May 10. We have a great line-up of plenary talks planned and parallel sessions are being organized. Check out the site to see speaker lists and submit an abstract.
