@@ -21,15 +21,15 @@ It takes you 5 minutes to walk from S Bahn and underground station Friedrichstra
  
 ![ ](HU.png)
 
-![ ](HU%20area.PNG)
+![](HU%20area.PNG){ width="400" }
 
 ## Building Layouts for Collaboration Meeting
 
-![ ](Meeting%20Rooms_Page_1.jpg)
+![](Meeting%20Rooms_Page_1.jpg){ width="400" }
 
-![ ](Meeting%20Rooms_Page_2.jpg)
+![](Meeting%20Rooms_Page_1.jpg){ width="400" }
 
-![ ](Meeting%20Rooms_Page_3.jpg)
+![](Meeting%20Rooms_Page_1.jpg){ width="400" }
 
 ## Public transport in and around Berlin
 
