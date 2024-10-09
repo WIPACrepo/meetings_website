@@ -15,13 +15,13 @@ The meeting will be held on the University of Wisconsin—Madison campus at Unio
 
 
  
-![ ](Union_South11_6805.jpeg)
+![](Union_South11_6805.jpeg){ width="400" }
 
 Union South Map: Collaboration Meeting Spaces
 
-![ ](U.South_Collab_Map_Page_1.png)
+![](U.South_Collab_Map_Page_1.png){ width="400" }
 
-![ ](U.South_Collab_Map_Page_2.png)
+![](U.South_Collab_Map_Page_2.png){ width="400" }
 
 
 ## Travel Information
