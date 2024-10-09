@@ -20,7 +20,7 @@ Dorotheenstr 24
 Registration/Check in to the conference will be in the front room 1.102 (first floor)
 All plenary sessions will be in room 1.101 
 
-<img src="Grundriss-DOR24-1.jpg" width="400px">
+![](Grundriss-DOR24-1.jpg){ width="400" }
 
 Parallel session rooms will change daily, please see program for more details.
 Wireless access information will be provided when you pick up your registration materials on the first day of the meeting.
