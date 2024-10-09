@@ -7,7 +7,6 @@ hide:
 
 # Home
 
-![ ](Registration-open.jpg){: align="left" style=""}
 
 ### Registration Now Open
 
