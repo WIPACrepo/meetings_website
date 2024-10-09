@@ -6,9 +6,10 @@ hide:
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
 
 
-![ ](words.jpg){: align="left" style=""}
-
 # Useful Japanese Phrases
+
+![ ](words.jpg)
+
 
 - Sumimasen – Can be used as “I am sorry,” “Excuse me,” and “Thank you.”
 - Konnichiwa – Hello!
