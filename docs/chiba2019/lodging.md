@@ -8,7 +8,7 @@ hide:
 
 # Lodging
 
-<img src="toriiGold.jpg" width="200px">
+![](toriiGold.jpg){ width="200" }
 
 **Please note, we are past the August 10th deadline to book a room at the discounted group rate.** If you submitted your request to collaboration@icecube.wisc.edu before the deadline, we will do our best to accomodate your hotel and room choice, though options are limited.
 
