@@ -7,7 +7,7 @@ hide:
 
 # Home
 
-<img src="RegistrationShrine.jpg" width="200">
+![](RegistrationShrine.jpg){ width="200" }
 
 ### Registration Now Open
 
@@ -18,7 +18,7 @@ Registration is now open via [Indico](https://events.icecube.wisc.edu/e/Collabor
 ***
 
 
-<img src="AccomodationHasu.jpg" width="200">
+![](AccomodationHasu.jpg){ width="200" }
 
 ### Reserve Your Hotel
 
