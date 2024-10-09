@@ -9,7 +9,7 @@ title: Tour Hamamatsu Photonics
 
 # Tour of Hamamatsu Photonics
 
-<img src="hamamatsu.jpg" width="200px">
+![](hamamatsu.jpg){ width="200" }
 
 50 seats available on the chartered bus from Hamamatsu Station to Toyooka factory of Hamamatsu Photonics.
 
