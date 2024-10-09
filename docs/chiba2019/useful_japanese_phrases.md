@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-    title: Useful Japanese Phrases
+title: Useful Japanese Phrases
 ---
 
 ![2019 Fall Collaboration Meeting](titleNoren2C_new.jpg)
