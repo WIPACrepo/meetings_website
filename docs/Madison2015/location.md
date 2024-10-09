@@ -13,11 +13,11 @@ hide:
 The meeting will be held on the University of Wisconsin—Madison campus at Union South, 1308 W Dayton St. in downtown Madison. Registration will be in the Alumni room on the second floor. All plenary sessions will be in the Marquee Theater, also on the second floor of Union South. Parallel session rooms change daily, please see the program for more details. Wireless is available through eduroam or with UW guest access accounts. Access accounts will be provided with registration materials on the first day of the meeting.
 
 
-![ ](Union_South11_6805.jpeg)
+![](Union_South11_6805.jpeg){ width="400" }
 
-![ ](U.South_Collab_Map_Page_1.png)
+![](U.South_Collab_Map_Page_1.png){ width="400" }
 
-![ ](U.South_Collab_Map_Page_2.png)
+![](U.South_Collab_Map_Page_2.png){ width="400" }
 
 ## Travel Information
 
