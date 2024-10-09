@@ -9,7 +9,7 @@ hide:
 
 # Schedule
 
-<img src="schedule.jpg" width="200px">
+![](schedule.jpg){ width="200" }
 
 **Friday, September 13**
 
