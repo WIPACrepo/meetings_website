@@ -16,7 +16,7 @@ Several new and interesting accommodation venues are available this year. Visit 
  
  
 
-![](image.jpg){ width="600" }
+![](IPA_2017.jpg){ width="600" }
 
 
 ## Register and submit an abstract for IPA 2017
